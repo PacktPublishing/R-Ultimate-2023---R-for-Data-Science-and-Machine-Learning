@@ -2,5 +2,5 @@ R is a programming language and environment designed for statistical computing, 
 
 This course takes us on a transformative journey through R programming, from foundational concepts to cutting-edge techniques. We will delve into R’s fundamentals, data types, variables, and structures. We will explore R programming with custom functions, control structures, and data manipulation. We will analyze data visualization with leading packages, statistical analysis, hypothesis testing, and regression modeling. With regular expressions, we will understand advanced data manipulation, outlier handling, missing data strategies, and text manipulation. We will learn about ML with regression, classification, and clustering algorithms. We will explore DL, neural networks, image classification, and semantic segmentation.
 
-Upon completion, we will create dynamic web apps with Shiny and emerge as skilled R practitioners, ready to tackle challenges and contribute to data-driven decision-making.
+Upon completion, we will be able to create dynamic web apps with Shiny and emerge as skilled R practitioners, ready to tackle challenges and contribute to data-driven decision-making.
 
